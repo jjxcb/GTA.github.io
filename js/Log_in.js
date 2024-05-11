@@ -12,10 +12,9 @@ document.addEventListener('DOMContentLoaded', function() {
         let password1 = password === "1";
         // 判断逻辑
         if (username1 && password1) {
-            window.location.href = "E:/untitled/untitled/index/index.html";
+            window.location.href = "https://jjxcb.github.io/GTA.github.io/";
         } else {
             alert("Invalid username or password");
-            console.log("Invalid username or password");
         }
     });
 });
